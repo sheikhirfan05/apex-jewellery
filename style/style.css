@@ -10,13 +10,15 @@
 
 html {
     scroll-behavior: smooth;
+    width: 100%;
+    overflow-x: hidden;
 }
 
 body {
     background-color: rgb(24 24 27);
     color: #ffffff;
     width: 100%;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .navbar {
