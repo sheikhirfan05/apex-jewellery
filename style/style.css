@@ -236,7 +236,7 @@ button:hover {
 /* Main Title styling */
 .about-title {
     font-family: 'Cormorant Garamond', serif;
-    font-size: 2.9rem;
+    font-size: 3.2rem;
     font-weight: 400;
     color: #a28243;
     /* Sharp rich charcoal/black */
@@ -586,6 +586,9 @@ footer{
         width: 100%;
         margin-top: 3rem;
         text-align: center;
+    }
+    .about-text{
+        font-size: 2.9rem;
     }
     #contact{
         width: 100%;
