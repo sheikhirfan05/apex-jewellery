@@ -547,6 +547,9 @@ footer{
     .navbar button{
         margin-left: 3rem;
     }
+    .navbar ul{
+        margin-left: 0.6rem;
+    }
     .navbar li{
         margin-right: 1rem;
     }
