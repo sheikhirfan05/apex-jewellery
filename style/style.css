@@ -15,6 +15,8 @@ html {
 body {
     background-color: rgb(24 24 27);
     color: #ffffff;
+    width: 100%;
+    overflow: hidden;
 }
 
 .navbar {
