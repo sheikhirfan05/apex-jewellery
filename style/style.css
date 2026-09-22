@@ -538,7 +538,7 @@ footer{
         height: 10rem;
         align-items: center;
         justify-content: center;
-        width: 130%;
+        width: 100%;
     }
     .navbar button{
         margin-left: 3rem;
@@ -547,13 +547,13 @@ footer{
         margin-right: 1.3rem;
     }
     .line{
-        width: 130%;
+        width: 100%;
     }
     #main{
-        width: 130%;
+        width: 100%;
     }
     #products{
-        width: 130%;
+        width: 100%;
     }
     #products h1{
         font-size: 5rem;
@@ -576,12 +576,12 @@ footer{
         margin-top: 0px;
     }
     #about{
-        width: 130%;
+        width: 100%;
         margin-top: 3rem;
         text-align: center;
     }
     #contact{
-        width: 130%;
+        width: 100%;
         margin-top: -4rem;
         text-align: center;
     }
@@ -592,6 +592,6 @@ footer{
         justify-content: center;
     }
     footer{
-        width: 130%;
+        width: 100%;
     }
 }
